@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<motori>
+    <motor>
+        <marka>Yamaha</marka>
+        <model>YZF-R1</model>
+        <slika>YZF-R1.jpg</slika>
+    </motor>
+    <motor>
+        <marka>Honda</marka>
+        <model>CBR1000RR</model>
+        <slika>CBR1000RR.jpg</slika>
+    </motor>
+    <motor>
+        <marka>Kawasaki</marka>
+        <model>Ninja ZX-10R</model>
+        <slika>ZX-10R.jpg</slika>
+    </motor>
+    <motor>
+        <marka>Yamaha</marka>
+        <model>MT-07</model>
+        <slika>MT-07.jpg</slika>
+    </motor>
+</motori>
